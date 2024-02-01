@@ -1,0 +1,7 @@
+[#ftl]
+[#-- @implicitly included --]
+[#-- @ftlvariable name="tags" type="ru.itmo.wp.domain.Tag[]" --]
+[#-- @ftlvariable name="comment" type="ru.itmo.wp.domain.Comment" --]
+[#-- @ftlvariable name="post" type="ru.itmo.wp.domain.Post" --]
+[#-- @ftlvariable name="message" type="java.lang.String" --]
+[#-- @ftlvariable name="user" type="ru.itmo.wp.domain.User" --]
